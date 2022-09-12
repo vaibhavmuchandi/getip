@@ -1,5 +1,5 @@
 
-# getip
+# getipify
 
 > Get your public IP addresses. Uses [Ipify](https://www.ipify.org) service.
 
