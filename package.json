@@ -1,5 +1,5 @@
 {
-  "name": "getip",
+  "name": "getipify",
   "version": "1.0.0",
   "description": "Package to query your public ipv4 and ipv6 address",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vaibhavmuchandi/getip.git"
+    "url": "git+https://github.com/vaibhavmuchandi/getipify.git"
   },
   "keywords": [
     "ip",
@@ -22,9 +22,9 @@
   "author": "0xvaibhav (https://twitter.com/0xvaibhav)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vaibhavmuchandi/getip/issues"
+    "url": "https://github.com/vaibhavmuchandi/getipify/issues"
   },
-  "homepage": "https://github.com/vaibhavmuchandi/getip#readme",
+  "homepage": "https://github.com/vaibhavmuchandi/getipify#readme",
   "dependencies": {
     "axios": "^0.27.2"
   }
