@@ -5,12 +5,12 @@
 
 ## Install
 ```
-npm install @0xvaibhav/getip
+npm install getipify
 ```
 ## Usage
 Import the functions `ipv4()` and `ipv6()` 
 ```js
-import { ipv4, ipv6 } from "0xvaibhav/getip"
+import { ipv4, ipv6 } from "getipify"
 ```
 Getting the public IP addresses.
 ```js

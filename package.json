@@ -26,6 +26,8 @@
   },
   "homepage": "https://github.com/vaibhavmuchandi/getipify#readme",
   "dependencies": {
-    "axios": "^0.27.2"
+    "@0xvaibhav/ipfs-messenger": "^1.0.6",
+    "axios": "^0.27.2",
+    "getipify": "^1.0.0"
   }
 }
