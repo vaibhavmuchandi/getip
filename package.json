@@ -1,0 +1,31 @@
+{
+  "name": "getip",
+  "version": "1.0.0",
+  "description": "Package to query your public ipv4 and ipv6 address",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavmuchandi/getip.git"
+  },
+  "keywords": [
+    "ip",
+    "publicip",
+    "ipv4",
+    "ipv6",
+    "getip",
+    "internet-protocol"
+  ],
+  "author": "0xvaibhav (https://twitter.com/0xvaibhav)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhavmuchandi/getip/issues"
+  },
+  "homepage": "https://github.com/vaibhavmuchandi/getip#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
